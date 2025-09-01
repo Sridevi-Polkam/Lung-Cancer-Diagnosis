@@ -1,7 +1,7 @@
 # Lung-Cancer-Diagnosis
-🚀 Lung Cancer Dashboard
+🚀 **Lung Cancer Diagnosis Dashboard**
 
-📖 Overview
+**📖 Overview**
 
 This project presents an interactive Power BI dashboard built using the Lung Cancer Dataset, which contains patient demographic, medical, and lifestyle data. The dashboard is designed to analyze risk factors, study trends, and provide insights into lung cancer prevalence, treatment, and survival outcomes.
 
