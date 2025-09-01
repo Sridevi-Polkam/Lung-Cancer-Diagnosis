@@ -1,5 +1,6 @@
 # Lung-Cancer-Diagnosis
 🚀 Lung Cancer Dashboard
+
 📖 Overview
 
 This project presents an interactive Power BI dashboard built using the Lung Cancer Dataset, which contains patient demographic, medical, and lifestyle data. The dashboard is designed to analyze risk factors, study trends, and provide insights into lung cancer prevalence, treatment, and survival outcomes.
@@ -12,6 +13,7 @@ Lung Cancer Overview – High-level summary of cases, demographics, smoking impa
 Smoking & Risk Factors – Focused analysis on smoking, passive smoking, and environmental exposures.
 
 Treatment & Survival Analysis – Insights into treatment effectiveness, survival years, and mortality trends.
+
 
 
 🗂 Dataset
@@ -27,6 +29,7 @@ Genetic & Medical Data: Genetic risk, cancer stage, treatment type
 Outcomes: Diagnosis status, survival years, mortality rate, and risk scores
 
 
+
 🛠 Tools & Technologies
 
 Power BI – For data cleaning, dashboard creation & visualization
@@ -34,6 +37,7 @@ Power BI – For data cleaning, dashboard creation & visualization
 Excel / CSV – For initial data cleaning 
 
 DAX – For custom KPI measures (risk scores, survival rates, mortality rates)
+
 
 
 📊 Dashboard Pages
@@ -85,6 +89,7 @@ To address this gap, an interactive dashboard is required to visualize and analy
    Assess mortality trends across countries and between developed vs. developing regions.
 
 
+
 🔍 Key Insights
 
 **Page 1: Lung Cancer Overview**
@@ -115,11 +120,14 @@ Average survival years improve with early detection and timely treatment.
 
 Targeted therapies show higher survival rates compared to conventional treatments.
 
-👉 This dashboard serves as a comprehensive healthcare analytics tool, helping identify trends, assess risks, and support strategies for early detection and improved patient survival outcomes.
-
 Developed countries report higher prevalence but better survival rates, while developing nations struggle with higher mortality.
 
 Late-stage cancer patients have a steep decline in survival years, emphasizing the importance of early diagnosis.
+
+
+
+👉 This dashboard serves as a comprehensive healthcare analytics tool, helping identify trends, assess risks, and support strategies for early detection and improved patient survival outcomes.
+
 
 
 
