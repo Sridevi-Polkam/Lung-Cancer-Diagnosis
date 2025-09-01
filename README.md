@@ -1,5 +1,5 @@
 # Lung-Cancer-Diagnosis
-🚀 **Lung Cancer Diagnosis Dashboard**
+**🚀 Lung Cancer Diagnosis Dashboard**
 
 **📖 Overview**
 
@@ -14,9 +14,10 @@ Smoking & Risk Factors – Focused analysis on smoking, passive smoking, and env
 
 Treatment & Survival Analysis – Insights into treatment effectiveness, survival years, and mortality trends.
 
+---
 
 
-🗂 Dataset
+**🗂 Dataset**
 
 The dataset includes:
 
@@ -28,9 +29,10 @@ Genetic & Medical Data: Genetic risk, cancer stage, treatment type
 
 Outcomes: Diagnosis status, survival years, mortality rate, and risk scores
 
+---
 
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 Power BI – For data cleaning, dashboard creation & visualization
 
@@ -38,9 +40,10 @@ Excel / CSV – For initial data cleaning
 
 DAX – For custom KPI measures (risk scores, survival rates, mortality rates)
 
+---
 
 
-📊 Dashboard Pages
+**📊 Dashboard Pages**
 
 🔹 Page 1: Lung Cancer Overview
 
@@ -60,15 +63,17 @@ KPIs: Average survival years, annual deaths, prevalence rate, survival rate by e
 
 Visuals: Survival by treatment type, deaths by country, developed vs. developing prevalence, mortality by treatment, survival distribution by stage & gender
 
+---
 
-📌 Problem Statement
+**📌 Problem Statement**
 
 Lung cancer remains one of the leading causes of cancer-related deaths worldwide, often diagnosed at late stages due to limited awareness and delayed screening. Identifying high-risk individuals and analyzing contributing factors such as smoking, passive smoking, air pollution, and genetic predispositions is critical for early detection and effective treatment planning. However, healthcare professionals and researchers often face challenges in integrating demographic, lifestyle, genetic, and clinical data into a single platform that provides actionable insights.
 
 To address this gap, an interactive dashboard is required to visualize and analyze patient records, highlight key risk factors, monitor mortality and survival trends, and support decision-making for early detection and treatment strategies.
 
+---
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
 1. Lung Cancer Trends Analysis
 
@@ -88,9 +93,10 @@ To address this gap, an interactive dashboard is required to visualize and analy
 
    Assess mortality trends across countries and between developed vs. developing regions.
 
+---
 
 
-🔍 Key Insights
+**🔍 Key Insights**
 
 **Page 1: Lung Cancer Overview**
 
