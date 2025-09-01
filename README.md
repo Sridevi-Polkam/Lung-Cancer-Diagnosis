@@ -32,7 +32,7 @@ Outcomes: Diagnosis status, survival years, mortality rate, and risk scores
 ---
 
 
-**🛠 Tools & Technologies**
+## **🛠 Tools & Technologies**
 
 Power BI – For data cleaning, dashboard creation & visualization
 
@@ -43,7 +43,7 @@ DAX – For custom KPI measures (risk scores, survival rates, mortality rates)
 ---
 
 
-**📊 Dashboard Pages**
+## **📊 Dashboard Pages**
 
 🔹 Page 1: Lung Cancer Overview
 
@@ -65,7 +65,7 @@ Visuals: Survival by treatment type, deaths by country, developed vs. developing
 
 ---
 
-**📌 Problem Statement**
+## **📌 Problem Statement**
 
 Lung cancer remains one of the leading causes of cancer-related deaths worldwide, often diagnosed at late stages due to limited awareness and delayed screening. Identifying high-risk individuals and analyzing contributing factors such as smoking, passive smoking, air pollution, and genetic predispositions is critical for early detection and effective treatment planning. However, healthcare professionals and researchers often face challenges in integrating demographic, lifestyle, genetic, and clinical data into a single platform that provides actionable insights.
 
@@ -73,7 +73,7 @@ To address this gap, an interactive dashboard is required to visualize and analy
 
 ---
 
-**🎯 Project Objectives**
+## **🎯 Project Objectives**
 
 1. Lung Cancer Trends Analysis
 
@@ -96,7 +96,7 @@ To address this gap, an interactive dashboard is required to visualize and analy
 ---
 
 
-**🔍 Key Insights**
+## **🔍 Key Insights**
 
 **Page 1: Lung Cancer Overview**
 
@@ -130,7 +130,7 @@ Developed countries report higher prevalence but better survival rates, while de
 
 Late-stage cancer patients have a steep decline in survival years, emphasizing the importance of early diagnosis.
 
-
+--- 
 
 👉 This dashboard serves as a comprehensive healthcare analytics tool, helping identify trends, assess risks, and support strategies for early detection and improved patient survival outcomes.
 
