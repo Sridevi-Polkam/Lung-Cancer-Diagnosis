@@ -97,7 +97,7 @@ To address this gap, an interactive dashboard is required to visualize and analy
 
 ## **🔍 Key Insights**
 
-**Page 1: Lung Cancer Overview**
+🔹**Page 1: Lung Cancer Overview**
 
 Smokers make up a significant share of lung cancer patients, confirming smoking as the strongest risk factor.
 
@@ -108,7 +108,7 @@ Males show higher lung cancer prevalence than females, but females with high-ris
 Average age of patients clusters around middle to older age groups (45–65 years).
 
 
-**Page 2: Smoking & Risk Factors**
+🔹**Page 2: Smoking & Risk Factors**
 
 Years of smoking strongly correlate with cancer stage progression, showing cumulative damage impact.
 
@@ -119,7 +119,7 @@ Patients exposed to both smoking and air pollution show significantly higher ris
 Early detection rate remains low, suggesting a gap in screening and preventive healthcare.
 
 
-**Page 3: Treatment & Survival Analysis**
+🔹**Page 3: Treatment & Survival Analysis**
 
 Average survival years improve with early detection and timely treatment.
 
