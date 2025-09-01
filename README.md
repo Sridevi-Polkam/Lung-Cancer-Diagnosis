@@ -14,7 +14,7 @@ Smoking & Risk Factors – Focused analysis on smoking, passive smoking, and env
 
 Treatment & Survival Analysis – Insights into treatment effectiveness, survival years, and mortality trends.
 
----
+
 
 
 ## **🗂 Dataset**
@@ -29,7 +29,6 @@ Genetic & Medical Data: Genetic risk, cancer stage, treatment type
 
 Outcomes: Diagnosis status, survival years, mortality rate, and risk scores
 
----
 
 
 ## **🛠 Tools & Technologies**
@@ -40,7 +39,7 @@ Excel / CSV – For initial data cleaning
 
 DAX – For custom KPI measures (risk scores, survival rates, mortality rates)
 
----
+
 
 
 ## **📊 Dashboard Pages**
@@ -63,7 +62,7 @@ KPIs: Average survival years, annual deaths, prevalence rate, survival rate by e
 
 Visuals: Survival by treatment type, deaths by country, developed vs. developing prevalence, mortality by treatment, survival distribution by stage & gender
 
----
+
 
 ## **📌 Problem Statement**
 
@@ -71,7 +70,7 @@ Lung cancer remains one of the leading causes of cancer-related deaths worldwide
 
 To address this gap, an interactive dashboard is required to visualize and analyze patient records, highlight key risk factors, monitor mortality and survival trends, and support decision-making for early detection and treatment strategies.
 
----
+
 
 ## **🎯 Project Objectives**
 
@@ -93,7 +92,7 @@ To address this gap, an interactive dashboard is required to visualize and analy
 
    Assess mortality trends across countries and between developed vs. developing regions.
 
----
+
 
 
 ## **🔍 Key Insights**
