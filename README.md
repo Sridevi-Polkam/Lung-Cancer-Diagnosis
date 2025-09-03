@@ -1,5 +1,5 @@
-# Lung-Cancer-Diagnosis
-## **🚀 Lung Cancer Diagnosis Dashboard**
+# Lung-Cancer-Prediction-Analysis
+## **🚀 Lung Cancer Prediction Analysis Dashboard**
 
 ## **📖 Overview**
 
